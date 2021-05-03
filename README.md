@@ -6,7 +6,7 @@ pip install openpyxl
 pip install docx-mailmerge
 pip install pyqt5
 
-#Execution
-Run MainUi.py
+# Execution
+python MainUi.py
 Enter Excel file path : Browse to path resources/input.xlsx
 Enter Output file path : Browse to any folder for output generation
